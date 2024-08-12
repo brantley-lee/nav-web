@@ -10,7 +10,7 @@
 
 ## 预览
 
-- [https://brantley-lee.github.io/hexo-blog](https://brantley-lee.github.io/hexo-blog)
+- [[https://brantley-lee.github.io/hexo-blog](https://brantley-lee.github.io/nav-web/#/light)]([https://brantley-lee.github.io/hexo-blog](https://brantley-lee.github.io/nav-web/#/light))
 
 ## 部署
 
